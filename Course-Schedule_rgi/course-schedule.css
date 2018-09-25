@@ -1,0 +1,39 @@
+/*Reina Irizarry,Web & Distributed Programming, project2,Fall 2018*/
+body{
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+
+*{
+  color: white;
+}
+
+h2{
+  color:#00e64d;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td {
+  border: 1px solid #708090;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+    color: black;
+}
+
+#submit{
+  background-color:#00e64d;
+}
+#reset{
+  background-color: #00e64d;
+}
